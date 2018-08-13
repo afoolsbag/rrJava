@@ -8,6 +8,7 @@ package rrjava;
  * @since 2016-09-01
  */
 public final class Main {
+
     /**
      * 程序入口。
      *

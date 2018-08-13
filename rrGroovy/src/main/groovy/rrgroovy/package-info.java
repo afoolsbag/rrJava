@@ -5,7 +5,7 @@
  * <i>Groovy</i> (2003)
  *
  * <h1>Guides</h1>
- * <a href="https://w3cschool.cn/groovy/"><i>Groovy 教程</i></a>
+ * <a href="https://w3cschool.cn/groovy/">"Groovy 教程"</a>. <i>w3cschool</i>.
  *
  * <h1>Awesome</h1>
  * <a href="https://github.com/kdabir/awesome-groovy"><i>Awesome Groovy</i></a>

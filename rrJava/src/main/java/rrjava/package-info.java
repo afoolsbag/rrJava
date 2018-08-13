@@ -36,7 +36,7 @@
  * <a href="https://javaranch.com/style.jsp"><i>JavaRanch - Java Programming Style Guide</i></a>
  *
  * <h1>Guides</h1>
- * <a href="https://w3cschool.cn/java/"><i>Java 教程</i></a>
+ * <a href="https://www.runoob.com/java">"Java 教程"</a>. <i>菜鸟教程</i>.
  * <i>Effective Java</i>
  * <a href="http://mindviewinc.com/Books/TIJ4"><i>Thinking in Java</i></a>. 2006. Bruce Eckel.
  *
