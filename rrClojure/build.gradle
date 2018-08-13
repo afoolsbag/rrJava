@@ -1,0 +1,11 @@
+plugins {
+    id 'gradle-clojure.clojure' version '0.4.0'
+}
+
+repositories {
+    maven { url "http://clojars.org/repo" }
+}
+
+dependencies {
+    compile 'org.clojure:clojure:+'
+}
