@@ -1,6 +1,6 @@
 package rrkotlin
 
-import junit.framework.TestCase.assertEquals
+import org.junit.Assert.assertEquals
 import org.junit.Test
 
 class UnitTests {

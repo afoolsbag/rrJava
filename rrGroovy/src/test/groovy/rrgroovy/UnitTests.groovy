@@ -1,19 +1,14 @@
 package rrgroovy
 
-import spock.lang.Specification
+import static org.junit.Assert.assertEquals
 
-class UnitTests extends Specification {
+import org.junit.Test
 
-    def "unitTest"() {
-        setup:
-        def lhv = 1 + 2
-        def rhv = 3
+class UnitTests {
 
-        when:
-        def result = lhv == rhv
-
-        then:
-        result
+    @Test
+    void unitTest() {
+        assertEquals(1 + 2, 3)
     }
 
 }

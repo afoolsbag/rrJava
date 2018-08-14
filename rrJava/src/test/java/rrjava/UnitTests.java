@@ -1,10 +1,10 @@
 package rrjava;
 
-import static junit.framework.TestCase.assertEquals;
+import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-public class UnitTests {
+public final class UnitTests {
 
     @Test
     public void unitTest() {
