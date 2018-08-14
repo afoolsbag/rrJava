@@ -42,9 +42,12 @@
  *
  * <h1>Awesome</h1>
  * <a href="https://github.com/akullpp/awesome-java"><i>Awesome Java</i></a>
+ * <br/>
+ * <a href="https://junit.org/"><i>JUnit</i></a>
+ * <a href="https://slf4j.org/"><i>SLF4J</i></a>
  *
  * @author zhengrr
- * @version 2018-08-13
+ * @version 2018-08-14
  * @since 2016-09-08
  */
 package rrjava;
