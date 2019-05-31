@@ -1,4 +1,6 @@
-apply plugin: 'scala'
+plugins {
+    'scala'
+}
 
 dependencies {
     compile 'org.scala-lang:scala-library:2.12.6'
@@ -7,4 +9,40 @@ dependencies {
     testCompile 'org.scalatest:scalatest_2.12:+'
 
     testRuntime 'org.scala-lang.modules:scala-xml_2.12:+'
+}
+
+sourceSets {
+    main {
+        java {
+            srcDirs = ['src/main/java']
+        }
+        resources {
+            srcDirs = ['src/main/resources']
+        }
+        scala {
+            srcDirs = ['src/main/scala']
+        }
+    }
+    test {
+        java {
+            srcDirs = ['src/test/java']
+        }
+        resources {
+            srcDirs = ['src/test/resources']
+        }
+        scala {
+            srcDirs = ['src/test/scala']
+        }
+    }
+    sourceSets {
+        java {
+            srcDirs = ['src/sourceSet/java']
+        }
+        resources {
+            srcDirs = ['src/sourceSet/resources']
+        }
+        scala {
+            srcDirs = ['src/sourceSet/scala']
+        }
+    }
 }
