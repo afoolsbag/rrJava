@@ -12,6 +12,10 @@
 
 ## 指南
 
+[“The Java™ Tutorials”](https://docs.oracle.com/javase/tutorial/). *Java™ Documentation*.
+
+[“Java 教程”](https://liaoxuefeng.com/wiki/1252599548343744). *廖雪峰的官方网站*.
+
 / *Effective Java*
 / [*Thinking in Java*](http://mindviewinc.com/Books/TIJ4 "2006, Bruce Eckel")
 
