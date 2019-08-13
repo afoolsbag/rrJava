@@ -15,14 +15,8 @@ target_compile_options(
   rrjni
   PRIVATE "/utf-8")
 
+find_package(JNI REQUIRED)
 target_include_directories(
-  rrjni PRIVATE "$ENV{JAVA_HOME}/include")
-
-if(UNIX)
-  target_include_directories(
-    rrjni PRIVATE "$ENV{JAVA_HOME}/include/linux")
-endif()
-if(WIN32)
-  target_include_directories(
-    rrjni PRIVATE "$ENV{JAVA_HOME}/include/win32")
-endif()
+  rrjni
+  PRIVATE "${JAVA_INCLUDE_PATH}"
+          "${JAVA_INCLUDE_PATH2}")
