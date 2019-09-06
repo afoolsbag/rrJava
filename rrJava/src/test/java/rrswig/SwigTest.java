@@ -92,8 +92,8 @@ public final class SwigTest {
         var obj = new Clazz();
 
         final int data = 1337;
-        obj.basic(data);
-        assertEquals(data, obj.basic());
+        obj.setBasic(data);
+        assertEquals(data, obj.getBasic());
     }
 
     @Test
@@ -105,9 +105,9 @@ public final class SwigTest {
         in.add((short) 3);
         in.add((short) 3);
         in.add((short) 7);
-        obj.array(in);
+        obj.setArray(in);
 
-        final var out = obj.array();
+        final var out = obj.getArray();
         assertEquals(in.size(), out.size());
         assertEquals(in.get(0), out.get(0));
         assertEquals(in.get(1), out.get(1));
@@ -120,8 +120,8 @@ public final class SwigTest {
         var obj = new Clazz();
 
         final String data = "1337";
-        obj.string(data);
-        assertEquals(data, obj.string());
+        obj.setString(data);
+        assertEquals(data, obj.getString());
     }
 
     @Test
