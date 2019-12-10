@@ -1,6 +1,4 @@
-# zhengrr 所知的 Minecraft
-
-[*Minecraft*](https://minecraft.net/)
+# [*Minecraft*](https://minecraft.net/)
 
 ## Wiki
 
@@ -8,7 +6,7 @@
 
 ## 启动器
 
-[*HCML*](https://hmcl.huangyuhui.net/)
+[*HMCL*](https://hmcl.huangyuhui.net/)
 
 ## 模组
 
@@ -27,10 +25,7 @@
 *   CodeChicken Lib <sub>
       [*CurseForge*](https://www.curseforge.com/minecraft/mc-mods/codechicken-lib),
       [*MC百科*](https://www.mcmod.cn/class/562.html) </sub>
-    *   CodeChickenCore <sub>
-          [*CurseForge*](https://www.curseforge.com/minecraft/mc-mods/codechickencore),
-          [*MC百科*](https://www.mcmod.cn/class/563.html) </sub>
-        *   [NEI] 物品管理器 Not Enough Items <sub>
+    *   [NEI] 物品管理器 Not Enough Items <sub>
           [*CurseForge*](https://curseforge.com/minecraft/mc-mods/not-enough-items),
           [*MC百科*](https://www.mcmod.cn/class/41.html) </sub>
 *   CoroUtil <sub>
@@ -73,12 +68,14 @@
                           [*CurseForge*](https://curseforge.com/minecraft/mc-mods/thermal-dynamics),
                           [*MC百科*](https://www.mcmod.cn/class/480.html) </sub>
 *   Shadowfacts' Forgelin <sub>
+      [*CurseForge*](https://curseforge.com/minecraft/mc-mods/shadowfacts-forgelin),
       [*MC百科*](https://www.mcmod.cn/class/799.html) </sub>
     *   无中生有：创世 Ex Nihilo: Creatio <sub>
           [*CurseForge*](https://curseforge.com/minecraft/mc-mods/ex-nihilo-creatio),
           [*MC百科*](https://www.mcmod.cn/class/955.html) </sub>
         *   压缩工具 Ex Compressum 压缩工具 <sub>
-            [*MC百科*](https://www.mcmod.cn/class/486.html) </sub>
+              [*CurseForge*](https://curseforge.com/minecraft/mc-mods/ex-compressum),
+              [*MC百科*](https://www.mcmod.cn/class/486.html) </sub>
 *   拔刀剑 Slash Blade <sub>
       [*CurseForge*](https://curseforge.com/minecraft/mc-mods/slashblade),
       [*MC百科*](https://www.mcmod.cn/class/366.html) </sub>
@@ -86,6 +83,9 @@
       [*9Minecraft*](http://9minecraft.net/treecapitator-mod/),
       [*CurseForge*](https://curseforge.com/minecraft/mc-mods/treecapitator),
       [*MC百科*](https://www.mcmod.cn/class/419.html) </sub>
+*   怪物娘化 Yarr Cute Mob Models <sub>
+      [*CurseForge*](https://curseforge.com/minecraft/mc-mods/yarr-cute-mob-models-remake),
+      [*MC百科*](https://www.mcmod.cn/class/296.html) </sub>
 *   [WE] 创世神 WorldEdit <sub>
       [*CurseForge*](https://curseforge.com/minecraft/mc-mods/worldedit),
       [*MC百科*](https://www.mcmod.cn/class/609.html) </sub>

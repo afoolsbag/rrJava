@@ -2,6 +2,11 @@
 
 > [![Should You Learn Python, C, or Ruby to Be a Top Coder?](./README-IMG.jpg)](https://byrslf.co/188a5bdc9f54 "Should You Learn Python, C, or Ruby to Be a Top Coder?")
 
+## Awesome
+
+*   [*IntelliJ IDEA*](https://jetbrains.com/idea/) <sub>
+        [*zh_CN*](https://github.com/pingfangx/jetbrains-in-chinese/tree/master/IntelliJIDEA) </sub>
+
 ## 许可
 
 项目采用 Unlicense 许可，文档采用 CC0-1.0 许可：
